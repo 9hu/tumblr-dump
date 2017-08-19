@@ -1,0 +1,13 @@
+# things you might want to change
+limit_rate = 900k
+random_wait = on
+wait = 0.4
+
+# things you might not want to change
+quiet = on
+robots = off
+span_hosts = on
+convert_links = on
+backup_converted = on
+verbose = off
+page_requisites = on    
